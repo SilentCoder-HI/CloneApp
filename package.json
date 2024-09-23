@@ -1,10 +1,12 @@
 {
     "author": "SilentCoder-HI",
-    "name": "CloneApp",
+    "name": "cloneapp",
     "version": "1.0.0",
     "description": "CloneApp",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
-    }
+    },
+    "keywords": [],
+    "license": "ISC"
 }
