@@ -1,3 +1,10 @@
 {
-    "author": "Jane Doe"
+    "author": "SilentCoder-HI",
+    "name": "CloneApp",
+    "version": "1.0.0",
+    "description": "CloneApp",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    }
 }
